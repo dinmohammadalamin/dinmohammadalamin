@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Din Mohammad Al Amin</h1>
 <h3 align="center">"Code with Character: My Contributions as a Backend Developer"</h3>
 
+![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/a/ACg8ocJ_pI0SwagR0J-LWVAOl0RAK4RNXY4R9C5umR5kDQv4GxE=s360-c-no)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinmohammadalamin&label=Profile%20views&color=0e75b6&style=flat" alt="dinmohammadalamin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinmohammadalamin" alt="dinmohammadalamin" /></a> </p>
